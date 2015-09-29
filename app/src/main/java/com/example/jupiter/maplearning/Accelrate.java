@@ -11,6 +11,8 @@ import android.os.Bundle;
  */
 public class Accelrate extends Activity implements SensorEventListener {
 
+    ////new changes
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
